@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\estudo\bin\Debug\estudo.exe.config
+C:\Users\Gabriel\source\repos\estudo\bin\Debug\estudo.exe
+C:\Users\Gabriel\source\repos\estudo\bin\Debug\estudo.pdb
+C:\Users\Gabriel\source\repos\estudo\obj\Debug\estudo.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\estudo\obj\Debug\estudo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\estudo\obj\Debug\estudo.exe
+C:\Users\Gabriel\source\repos\estudo\obj\Debug\estudo.pdb

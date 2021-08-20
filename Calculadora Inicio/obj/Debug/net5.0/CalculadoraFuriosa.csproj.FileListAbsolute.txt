@@ -1,0 +1,16 @@
+C:\Users\Gabriel\source\repos\CalculadoraFuriosa\bin\Debug\net5.0\CalculadoraFuriosa.exe
+C:\Users\Gabriel\source\repos\CalculadoraFuriosa\bin\Debug\net5.0\CalculadoraFuriosa.deps.json
+C:\Users\Gabriel\source\repos\CalculadoraFuriosa\bin\Debug\net5.0\CalculadoraFuriosa.runtimeconfig.json
+C:\Users\Gabriel\source\repos\CalculadoraFuriosa\bin\Debug\net5.0\CalculadoraFuriosa.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\CalculadoraFuriosa\bin\Debug\net5.0\CalculadoraFuriosa.dll
+C:\Users\Gabriel\source\repos\CalculadoraFuriosa\bin\Debug\net5.0\ref\CalculadoraFuriosa.dll
+C:\Users\Gabriel\source\repos\CalculadoraFuriosa\bin\Debug\net5.0\CalculadoraFuriosa.pdb
+C:\Users\Gabriel\source\repos\CalculadoraFuriosa\obj\Debug\net5.0\CalculadoraFuriosa.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\CalculadoraFuriosa\obj\Debug\net5.0\CalculadoraFuriosa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\CalculadoraFuriosa\obj\Debug\net5.0\CalculadoraFuriosa.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\CalculadoraFuriosa\obj\Debug\net5.0\CalculadoraFuriosa.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\CalculadoraFuriosa\obj\Debug\net5.0\CalculadoraFuriosa.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\CalculadoraFuriosa\obj\Debug\net5.0\CalculadoraFuriosa.dll
+C:\Users\Gabriel\source\repos\CalculadoraFuriosa\obj\Debug\net5.0\ref\CalculadoraFuriosa.dll
+C:\Users\Gabriel\source\repos\CalculadoraFuriosa\obj\Debug\net5.0\CalculadoraFuriosa.pdb
+C:\Users\Gabriel\source\repos\CalculadoraFuriosa\obj\Debug\net5.0\CalculadoraFuriosa.genruntimeconfig.cache

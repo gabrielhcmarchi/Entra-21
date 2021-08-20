@@ -1,0 +1,16 @@
+C:\Users\gabriel.marchi\source\repos\AulaOOpt03\AulaOOpt03\bin\Debug\net5.0\AulaOOpt03.exe
+C:\Users\gabriel.marchi\source\repos\AulaOOpt03\AulaOOpt03\bin\Debug\net5.0\AulaOOpt03.deps.json
+C:\Users\gabriel.marchi\source\repos\AulaOOpt03\AulaOOpt03\bin\Debug\net5.0\AulaOOpt03.runtimeconfig.json
+C:\Users\gabriel.marchi\source\repos\AulaOOpt03\AulaOOpt03\bin\Debug\net5.0\AulaOOpt03.runtimeconfig.dev.json
+C:\Users\gabriel.marchi\source\repos\AulaOOpt03\AulaOOpt03\bin\Debug\net5.0\AulaOOpt03.dll
+C:\Users\gabriel.marchi\source\repos\AulaOOpt03\AulaOOpt03\bin\Debug\net5.0\ref\AulaOOpt03.dll
+C:\Users\gabriel.marchi\source\repos\AulaOOpt03\AulaOOpt03\bin\Debug\net5.0\AulaOOpt03.pdb
+C:\Users\gabriel.marchi\source\repos\AulaOOpt03\AulaOOpt03\obj\Debug\net5.0\AulaOOpt03.csprojAssemblyReference.cache
+C:\Users\gabriel.marchi\source\repos\AulaOOpt03\AulaOOpt03\obj\Debug\net5.0\AulaOOpt03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.marchi\source\repos\AulaOOpt03\AulaOOpt03\obj\Debug\net5.0\AulaOOpt03.AssemblyInfoInputs.cache
+C:\Users\gabriel.marchi\source\repos\AulaOOpt03\AulaOOpt03\obj\Debug\net5.0\AulaOOpt03.AssemblyInfo.cs
+C:\Users\gabriel.marchi\source\repos\AulaOOpt03\AulaOOpt03\obj\Debug\net5.0\AulaOOpt03.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.marchi\source\repos\AulaOOpt03\AulaOOpt03\obj\Debug\net5.0\AulaOOpt03.dll
+C:\Users\gabriel.marchi\source\repos\AulaOOpt03\AulaOOpt03\obj\Debug\net5.0\ref\AulaOOpt03.dll
+C:\Users\gabriel.marchi\source\repos\AulaOOpt03\AulaOOpt03\obj\Debug\net5.0\AulaOOpt03.pdb
+C:\Users\gabriel.marchi\source\repos\AulaOOpt03\AulaOOpt03\obj\Debug\net5.0\AulaOOpt03.genruntimeconfig.cache

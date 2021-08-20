@@ -1,0 +1,10 @@
+C:\Users\lamza\source\repos\Forms_01\Forms_01\bin\Debug\Forms_01.exe.config
+C:\Users\lamza\source\repos\Forms_01\Forms_01\bin\Debug\Forms_01.exe
+C:\Users\lamza\source\repos\Forms_01\Forms_01\bin\Debug\Forms_01.pdb
+C:\Users\lamza\source\repos\Forms_01\Forms_01\obj\Debug\Forms_01.csproj.AssemblyReference.cache
+C:\Users\lamza\source\repos\Forms_01\Forms_01\obj\Debug\Forms_01.Form1.resources
+C:\Users\lamza\source\repos\Forms_01\Forms_01\obj\Debug\Forms_01.Properties.Resources.resources
+C:\Users\lamza\source\repos\Forms_01\Forms_01\obj\Debug\Forms_01.csproj.GenerateResource.cache
+C:\Users\lamza\source\repos\Forms_01\Forms_01\obj\Debug\Forms_01.csproj.CoreCompileInputs.cache
+C:\Users\lamza\source\repos\Forms_01\Forms_01\obj\Debug\Forms_01.exe
+C:\Users\lamza\source\repos\Forms_01\Forms_01\obj\Debug\Forms_01.pdb

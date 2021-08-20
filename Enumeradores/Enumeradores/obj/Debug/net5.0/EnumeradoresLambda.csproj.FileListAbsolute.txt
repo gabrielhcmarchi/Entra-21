@@ -1,0 +1,16 @@
+C:\Users\lamza\OneDrive\Área de Trabalho\Entra-21\Entra-21\Enumeradores\Enumeradores\bin\Debug\net5.0\EnumeradoresLambda.exe
+C:\Users\lamza\OneDrive\Área de Trabalho\Entra-21\Entra-21\Enumeradores\Enumeradores\bin\Debug\net5.0\EnumeradoresLambda.deps.json
+C:\Users\lamza\OneDrive\Área de Trabalho\Entra-21\Entra-21\Enumeradores\Enumeradores\bin\Debug\net5.0\EnumeradoresLambda.runtimeconfig.json
+C:\Users\lamza\OneDrive\Área de Trabalho\Entra-21\Entra-21\Enumeradores\Enumeradores\bin\Debug\net5.0\EnumeradoresLambda.runtimeconfig.dev.json
+C:\Users\lamza\OneDrive\Área de Trabalho\Entra-21\Entra-21\Enumeradores\Enumeradores\bin\Debug\net5.0\EnumeradoresLambda.dll
+C:\Users\lamza\OneDrive\Área de Trabalho\Entra-21\Entra-21\Enumeradores\Enumeradores\bin\Debug\net5.0\ref\EnumeradoresLambda.dll
+C:\Users\lamza\OneDrive\Área de Trabalho\Entra-21\Entra-21\Enumeradores\Enumeradores\bin\Debug\net5.0\EnumeradoresLambda.pdb
+C:\Users\lamza\OneDrive\Área de Trabalho\Entra-21\Entra-21\Enumeradores\Enumeradores\obj\Debug\net5.0\EnumeradoresLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamza\OneDrive\Área de Trabalho\Entra-21\Entra-21\Enumeradores\Enumeradores\obj\Debug\net5.0\EnumeradoresLambda.AssemblyInfoInputs.cache
+C:\Users\lamza\OneDrive\Área de Trabalho\Entra-21\Entra-21\Enumeradores\Enumeradores\obj\Debug\net5.0\EnumeradoresLambda.AssemblyInfo.cs
+C:\Users\lamza\OneDrive\Área de Trabalho\Entra-21\Entra-21\Enumeradores\Enumeradores\obj\Debug\net5.0\EnumeradoresLambda.csproj.CoreCompileInputs.cache
+C:\Users\lamza\OneDrive\Área de Trabalho\Entra-21\Entra-21\Enumeradores\Enumeradores\obj\Debug\net5.0\EnumeradoresLambda.dll
+C:\Users\lamza\OneDrive\Área de Trabalho\Entra-21\Entra-21\Enumeradores\Enumeradores\obj\Debug\net5.0\ref\EnumeradoresLambda.dll
+C:\Users\lamza\OneDrive\Área de Trabalho\Entra-21\Entra-21\Enumeradores\Enumeradores\obj\Debug\net5.0\EnumeradoresLambda.pdb
+C:\Users\lamza\OneDrive\Área de Trabalho\Entra-21\Entra-21\Enumeradores\Enumeradores\obj\Debug\net5.0\EnumeradoresLambda.genruntimeconfig.cache
+C:\Users\lamza\OneDrive\Área de Trabalho\Entra-21\Entra-21\Enumeradores\Enumeradores\obj\Debug\net5.0\EnumeradoresLambda.csproj.AssemblyReference.cache

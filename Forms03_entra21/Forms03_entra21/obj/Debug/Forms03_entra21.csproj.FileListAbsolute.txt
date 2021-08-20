@@ -1,0 +1,15 @@
+C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\bin\Debug\Forms03_entra21.exe.config
+C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\bin\Debug\Forms03_entra21.exe
+C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\bin\Debug\Forms03_entra21.pdb
+C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\obj\Debug\Forms03_entra21.csproj.AssemblyReference.cache
+C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\obj\Debug\Forms03_entra21.Exec02.resources
+C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\obj\Debug\Forms03_entra21.Form1.resources
+C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\obj\Debug\Forms03_entra21.Properties.Resources.resources
+C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\obj\Debug\Forms03_entra21.Saque.resources
+C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\obj\Debug\Forms03_entra21.csproj.GenerateResource.cache
+C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\obj\Debug\Forms03_entra21.csproj.CoreCompileInputs.cache
+C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\obj\Debug\Forms03_entra21.exe
+C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\obj\Debug\Forms03_entra21.pdb
+C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\obj\Debug\Forms03_entra21.Deposito.resources
+C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\obj\Debug\Forms03_entra21.Exec01.resources
+C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\obj\Debug\Forms03_entra21.TelaAdm.resources

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CalculadoraFuriosa/1.0.0": {
+        "runtime": {
+          "CalculadoraFuriosa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculadoraFuriosa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

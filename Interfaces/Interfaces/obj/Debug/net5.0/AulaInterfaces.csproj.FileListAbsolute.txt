@@ -1,0 +1,15 @@
+C:\Users\lamza\source\repos\Interfaces\Interfaces\bin\Debug\net5.0\AulaInterfaces.exe
+C:\Users\lamza\source\repos\Interfaces\Interfaces\bin\Debug\net5.0\AulaInterfaces.deps.json
+C:\Users\lamza\source\repos\Interfaces\Interfaces\bin\Debug\net5.0\AulaInterfaces.runtimeconfig.json
+C:\Users\lamza\source\repos\Interfaces\Interfaces\bin\Debug\net5.0\AulaInterfaces.runtimeconfig.dev.json
+C:\Users\lamza\source\repos\Interfaces\Interfaces\bin\Debug\net5.0\AulaInterfaces.dll
+C:\Users\lamza\source\repos\Interfaces\Interfaces\bin\Debug\net5.0\ref\AulaInterfaces.dll
+C:\Users\lamza\source\repos\Interfaces\Interfaces\bin\Debug\net5.0\AulaInterfaces.pdb
+C:\Users\lamza\source\repos\Interfaces\Interfaces\obj\Debug\net5.0\AulaInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamza\source\repos\Interfaces\Interfaces\obj\Debug\net5.0\AulaInterfaces.AssemblyInfoInputs.cache
+C:\Users\lamza\source\repos\Interfaces\Interfaces\obj\Debug\net5.0\AulaInterfaces.AssemblyInfo.cs
+C:\Users\lamza\source\repos\Interfaces\Interfaces\obj\Debug\net5.0\AulaInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\lamza\source\repos\Interfaces\Interfaces\obj\Debug\net5.0\AulaInterfaces.dll
+C:\Users\lamza\source\repos\Interfaces\Interfaces\obj\Debug\net5.0\ref\AulaInterfaces.dll
+C:\Users\lamza\source\repos\Interfaces\Interfaces\obj\Debug\net5.0\AulaInterfaces.pdb
+C:\Users\lamza\source\repos\Interfaces\Interfaces\obj\Debug\net5.0\AulaInterfaces.genruntimeconfig.cache

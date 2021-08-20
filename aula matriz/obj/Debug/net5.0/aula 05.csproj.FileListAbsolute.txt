@@ -1,0 +1,16 @@
+C:\Users\Gabriel\source\repos\aula 05\bin\Debug\net5.0\aula 05.exe
+C:\Users\Gabriel\source\repos\aula 05\bin\Debug\net5.0\aula 05.deps.json
+C:\Users\Gabriel\source\repos\aula 05\bin\Debug\net5.0\aula 05.runtimeconfig.json
+C:\Users\Gabriel\source\repos\aula 05\bin\Debug\net5.0\aula 05.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\aula 05\bin\Debug\net5.0\aula 05.dll
+C:\Users\Gabriel\source\repos\aula 05\bin\Debug\net5.0\ref\aula 05.dll
+C:\Users\Gabriel\source\repos\aula 05\bin\Debug\net5.0\aula 05.pdb
+C:\Users\Gabriel\source\repos\aula 05\obj\Debug\net5.0\aula 05.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\aula 05\obj\Debug\net5.0\aula 05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\aula 05\obj\Debug\net5.0\aula 05.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\aula 05\obj\Debug\net5.0\aula 05.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\aula 05\obj\Debug\net5.0\aula 05.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\aula 05\obj\Debug\net5.0\aula 05.dll
+C:\Users\Gabriel\source\repos\aula 05\obj\Debug\net5.0\ref\aula 05.dll
+C:\Users\Gabriel\source\repos\aula 05\obj\Debug\net5.0\aula 05.pdb
+C:\Users\Gabriel\source\repos\aula 05\obj\Debug\net5.0\aula 05.genruntimeconfig.cache
