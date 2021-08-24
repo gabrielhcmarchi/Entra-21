@@ -13,3 +13,6 @@ C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\obj\Debug\Forms03_en
 C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\obj\Debug\Forms03_entra21.Deposito.resources
 C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\obj\Debug\Forms03_entra21.Exec01.resources
 C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\obj\Debug\Forms03_entra21.TelaAdm.resources
+C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\obj\Debug\Forms03_entra21.frmExec03.resources
+C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\obj\Debug\Forms03_entra21.frmExec04.resources
+C:\Users\lamza\source\repos\Forms03_entra21\Forms03_entra21\obj\Debug\Forms03_entra21.FM.resources

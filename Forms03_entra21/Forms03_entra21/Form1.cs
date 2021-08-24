@@ -41,6 +41,24 @@ namespace Forms03_entra21
             Application.Exit();
         }
 
-       
+        private void btnExec03_Click(object sender, EventArgs e)
+        {
+            new frmExec03().Show();
+            this.Hide();
+        }
+
+
+        private void btnExec04_Click(object sender, EventArgs e)
+        {
+
+            new frmExec04().Show();
+            this.Hide();
+        }
+
+        private void btnFm_Click(object sender, EventArgs e)
+        {
+            new FM().Show();
+            this.Hide();
+        }
     }
 }
